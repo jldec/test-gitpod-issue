@@ -9,7 +9,7 @@ The process below assumes that you have push access to the repo for which a PR i
 ### Steps:
 - Create an issue in the repo (if no issue exists yet) and start from the issue URL.
 - Open in Gitpod by prefixing the issue URL with `https://gitpod.io/#`.
-- Once the workspace is open, note the new branch name.
+- Once the workspace is open, note the new branch name e.g. by running `git branch -vv`
 - push changes to that branch.
 - create the PR from the branch.
 
